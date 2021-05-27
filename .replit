@@ -1,0 +1,2 @@
+language = "Haskell"
+run = "ghci haskell02.hs"
